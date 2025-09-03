@@ -1,6 +1,0 @@
-mkdir -p notebooks src data/raw reports/figures
-touch notebooks/.gitkeep src/.gitkeep data/raw/.gitkeep reports/figures/.gitkeep
-git add .
-git commit -m "Add project folder structure"
-git push origin main
-
